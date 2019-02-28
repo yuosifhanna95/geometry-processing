@@ -38,18 +38,18 @@ On Windows you can download it from:
 [https://cmake.org/download/](https://cmake.org/download/)
 
 ### Cloning the Assignment Repository
-Before you are able to clone your private assignment repository, you need to have a active [Github](https://github.com/) account. Then you can create your own private online repository by following this link: https://classroom.github.com/a/0mOyAGMt
+Before you are able to clone your private assignment repository, you need to have a active [Github](https://github.com/) account. Then you can create your own private online repository by following this link: https://classroom.github.com/a/dIxc9WXe
 
 In the next step you need to clone it to your local harddrive
 ```
-git clone --recursive https://github.com/eth-igl/gp18-'Your_Git_Username'.git
+git clone --recursive https://github.com/HaifaGraphics/gp-spring-2019-assignments-'Your_Git_Username'.git
 ```
 'Your_Git_Username' needs to be replaced accordingly. This can take a moment.
 
 Next, cd into the newly created folder, and add the base assignment repository as a remote:
 ```
-cd gp18-'Your_Git_Username'
-git remote add base https://github.com/eth-igl/GP2018-Assignments.git
+cd gp-spring-2019-assignments-'Your_Git_Username'
+git remote add base https://github.com/HaifaGraphics/geometry-processing.git
 ```
 Now you should have your local clone of the assignment repository ready. Have a look at the new repository folder and open the 'README.md'. It contains the text you are just reading. Please fill in your name and student number at the top of this file and save. Then you need to stage and commit this changed file:
 ```
@@ -57,7 +57,7 @@ git add README.md
 git commit -m "Adjust README.md"
 git push
 ```
-You should now be able to see your name online on your private repository: https://github.com/eth-igl/gp18-'Your_Git_Username'
+You should now be able to see your name online on your private repository: https://github.com/HaifaGraphics/gp-spring-2019-assignments-'Your_Git_Username'
 
 ### Building Each Assignment
 In the assignment repository you will find the different assignment directories 'assignmentX'. For now you only see the first one 'assignment1'. To compile the assignment code we will use the CMake building system.
