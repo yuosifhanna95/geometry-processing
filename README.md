@@ -11,6 +11,7 @@ ID: 'Your ID number'
 11.03.2019 20:00 - Added assignment 2.  
 09.04.2019 23:00 - Added assignment 3.
 10.05.2019 04:00 - Added assignment 4.
+02.06.2019 23:59 - Added assignment 5.
 
 Follow the instructions to update your private repository.
 
@@ -20,6 +21,7 @@ Follow the instructions to update your private repository.
 [Assignment 2](assignment2/README.md) (Due date: 02.04.2019 08:00)  
 [Assignment 3](assignment3/README.md) (Due date: 02.05.2019 23:59)
 [Assignment 4](assignment4/README.md) (Due date: 29.05.2019 23:59)
+[Assignment 5](assignment5/README.md) (Due date: 02.06.2019 23:59)
 
 ## General Rules and Instructions
 
